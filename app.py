@@ -1,12 +1,3 @@
-"""
-Plant Disease Classifier - Flask Web App
-=========================================
-1. Put swin_best.pth in the same folder as this file
-2. pip install -r requirements.txt
-3. python app.py
-4. Open http://localhost:5000
-"""
-
 import io, os
 from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
