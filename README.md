@@ -29,7 +29,7 @@ Manual inspection is time-consuming, requires expert knowledge, and is prone to 
 
 ## Dataset Structure
 
-**Dataset:** [PlantVillage (Kaggle)](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) — `color` folder
+**Dataset:** [PlantVillage (Kaggle)](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) 
 
 ### Dataset Info
 - Total images: ~54,305
@@ -43,7 +43,7 @@ Manual inspection is time-consuming, requires expert knowledge, and is prone to 
 
 ---
 
-## ⚙️ Data Preprocessing & Augmentation
+## Data Preprocessing & Augmentation
 
 Implemented with `torchvision` transforms and `timm` Mixup/CutMix.
 
